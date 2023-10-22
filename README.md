@@ -11,5 +11,9 @@ git add.
 ***
 
 ***
-git comit -m "this is my first comit"
+git commit -m "this is my first commit"
 ***
+
+***
+git pull
+*** 
